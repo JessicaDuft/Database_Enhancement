@@ -100,7 +100,7 @@ I used the same configuration and applied it to our "ROOMS" functions. An exampl
 <img width="468" alt="Picture12" src="https://github.com/JessicaDuft/Database_Enhancement/assets/130928718/efc586b0-6700-4994-a8c2-05d8db2e966b">
 <br/> 
 <br/> 
-Further security measures were placed by coding the ADD ROOM, EDIT ROOM, or DELETE ROOM options to only appear on the admin-page when an authorized user is logged in. See below what happens when a user redners ROOMS on the admin-page without being logged in. Notice that the ADD ROOM, EDIT ROOM, and DELETE ROOM options are no longer there. 
+Further security measures were placed by coding the ADD ROOM, EDIT ROOM, or DELETE ROOM options to only appear on the admin-page when an authorized user is logged in. See below what happens when a user renders ROOMS on the admin-page without being logged in. Notice that the ADD ROOM, EDIT ROOM, and DELETE ROOM options are no longer there. 
 <br/> 
 
 <img width="468" alt="Picture13" src="https://github.com/JessicaDuft/Database_Enhancement/assets/130928718/4b3ee077-3563-414f-986d-78f6c6f9f074">
