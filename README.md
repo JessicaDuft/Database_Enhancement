@@ -117,7 +117,7 @@ For this enhancement the following files were added or modified :
 [**\travlr\app_api\routes\rooms.js**](https://github.com/JessicaDuft/Database_Enhancement/blob/main/app_api/routes/rooms.js)**- added lines 10-12 and added auth requirements to each function**
 <br/>
 
-[**\travlr\travlr-admin\src\app\add-room\add-room.component.ts**] (https://github.com/JessicaDuft/Database_Enhancement/blob/main/travlr-admin/src/app/add-room/add-room.component.ts)  **- completed the add room component on the travlr-admin page**
+[**\travlr\travlr-admin\src\app\add-room\add-room.component.ts**](https://github.com/JessicaDuft/Database_Enhancement/blob/main/travlr-admin/src/app/add-room/add-room.component.ts)  **- completed the add room component on the travlr-admin page**
 <br/>
 
 [**\travlr\travlr-admin\src\app\edit-room**](https://github.com/JessicaDuft/Database_Enhancement/tree/main/travlr-admin/src/app/edit-room) **- completed the edit room component on the travlr-admin page**
