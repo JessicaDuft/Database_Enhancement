@@ -111,26 +111,26 @@ Further security measures were placed by coding the ADD ROOM, EDIT ROOM, or DELE
 For this enhancement the following files were added or modified : 
 <br/> 
 
-**travlr\app_api\controllers\rooms.js - added roomsAddRoom,roomsUpdateRoom, and roomsDeleteRoom functions**
+[**travlr\app_api\controllers\rooms.js**](https://github.com/JessicaDuft/Database_Enhancement/blob/main/app_api/controllers/rooms.js) **- added roomsAddRoom,roomsUpdateRoom, and roomsDeleteRoom functions**
 <br/>
 
-**\travlr\app_api\routes\rooms.js - added lines 10-12 and added auth requirements to each function**
+[**\travlr\app_api\routes\rooms.js**](https://github.com/JessicaDuft/Database_Enhancement/blob/main/app_api/routes/rooms.js)**- added lines 10-12 and added auth requirements to each function**
 <br/>
 
-**\travlr\travlr-admin\src\app\add-room\add-room.component.ts - completed the add room component on the travlr-admin page**
+[**\travlr\travlr-admin\src\app\add-room\add-room.component.ts**] (https://github.com/JessicaDuft/Database_Enhancement/blob/main/travlr-admin/src/app/add-room/add-room.component.ts)  **- completed the add room component on the travlr-admin page**
 <br/>
 
-**\travlr\travlr-admin\src\app\edit-room - completed the edit room component on the travlr-admin page**
+[**\travlr\travlr-admin\src\app\edit-room**](https://github.com/JessicaDuft/Database_Enhancement/tree/main/travlr-admin/src/app/edit-room) **- completed the edit room component on the travlr-admin page**
 <br/>
 
-**\travlr\travlr-admin\src\app\delete-room - completed the delete room component on the travlr-admin page**
+[**\travlr\travlr-admin\src\app\delete-room**](https://github.com/JessicaDuft/Database_Enhancement/tree/main/travlr-admin/src/app/delete-room) **- completed the delete room component on the travlr-admin page**
 
 
 <br/>
 <br/>
 <br/>
 
-[**Return to Main Repository**](https://github.com/JessicaDuft/CS499-Capstone)
+[**Return to Eportfolio**](https://github.com/JessicaDuft/CS499-Capstone)
 
 
 
